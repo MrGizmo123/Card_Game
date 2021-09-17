@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="532_Online_jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/532_Online_jar/532_Online.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/532_Online_jar/532_Online.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
